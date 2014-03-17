@@ -1,0 +1,15 @@
+{
+	"name" : "naxxfish/nowplaying",
+	"require" : {
+			"dandelionmood/lastfm" : ">=0.2",
+			"sabre/vobject": "3.1.*@dev",
+			"mikealmond/musicbrainz": "0.1.*@dev",
+			"google/apiclient": "dev-master"
+	},
+	    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/naxxfish/nowplaying"
+        }
+    ]
+}
